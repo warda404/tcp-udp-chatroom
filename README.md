@@ -47,3 +47,7 @@ SERVER COMMANDS: -> servr can send message to all +
 to be implemented (or not? )
 ***BAN USER FOR SPECIFIC TIME (admin user?)
 ***Show names of all online + of all offline 
+
+
+https://www.youtube.com/watch?v=KRhv4iPgzHE&t=1s
+https://dev.mysql.com/downloads/connector/j/
