@@ -110,8 +110,8 @@ public class dbtest {
 		   String url = "jdbc:mysql://" + ip +  ":3306/users";
 		   System.out.println(ip);
 		   //String url = "jdbc:mysql://localhost:3306/users";
-		   String username = "root";
-		   String password = "5a7aza457yth341n";
+		   String username = ""; // not provided for security reasons here XD 
+		   String password = ""; // same as above
 		   Class.forName(driver);
 		   
 		   Connection conn = DriverManager.getConnection(url,username,password);
